@@ -1,0 +1,1 @@
+# This is new Python module file that contains some text
